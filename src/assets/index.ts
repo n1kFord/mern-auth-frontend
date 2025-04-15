@@ -1,0 +1,16 @@
+export { default as backgroundImg } from "./bg.jpg";
+export { default as closeIcon } from "./close.svg";
+export { default as copyIcon } from "./copy.svg";
+export { default as editIcon } from "./edit.svg";
+export { default as expressJsIcon } from "./express-js.svg";
+export { default as githubIcon } from "./github.svg";
+export { default as loginIcon } from "./login.svg";
+export { default as mongodbIcon } from "./mongodb.svg";
+export { default as nodeJsIcon } from "./node-js.svg";
+export { default as oauthGithubIcon } from "./oauth-github.svg";
+export { default as oauthGoogleIcon } from "./oauth-google.svg";
+export { default as oauthIcon } from "./oauth.svg";
+export { default as reactIcon } from "./react.svg";
+export { default as securityIcon } from "./security.svg";
+export { default as settingsIcon } from "./settings.svg";
+export { default as userIconExample } from "./user-icon-example.svg";
