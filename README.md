@@ -17,7 +17,16 @@ It features a responsive, accessible interface with full login/register/OAuth fl
 
 ---
 
-## 🏁 Getting Started
+## 🌐 Live Demo
+
+You can try the full app here:  
+🔗 **[mern-auth-frontend-beta-two.vercel.app](https://mern-auth-frontend-beta-two.vercel.app)**
+
+> ⚠️ **Note:** When opening the app for the first time, the **backend server may take up to one minute to respond**, as it's hosted on a free-tier platform with cold start delays.
+
+---
+
+## 🏁 Getting Started Locally
 
 Clone the repository and install dependencies:
 
