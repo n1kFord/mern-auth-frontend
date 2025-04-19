@@ -182,7 +182,10 @@ describe("About component", () => {
             });
 
             expect(link).toBeInTheDocument();
-            expect(link).toHaveAttribute("href", "https://github.com/n1kFord");
+            expect(link).toHaveAttribute(
+                "href",
+                "https://github.com/n1kFord/mern-auth-frontend",
+            );
             expect(link).toHaveAttribute("target", "_blank");
             expect(link).toHaveAttribute("rel", "noreferrer");
 
