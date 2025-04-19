@@ -106,7 +106,7 @@ const AuthBar = <T extends object>({
                         aria-label="OAuth providers"
                     >
                         <a
-                            href="http://localhost:8080/api/auth/google"
+                            href={`${process.env.REACT_APP_API_LINK || "http://localhost:8080/api"}/auth/google`}
                             aria-label="Sign in with Google"
                         >
                             <button
@@ -124,7 +124,7 @@ const AuthBar = <T extends object>({
                             </button>
                         </a>
                         <a
-                            href="http://localhost:8080/api/auth/github"
+                            href={`${process.env.REACT_APP_API_LINK || "http://localhost:8080/api"}/auth/github`}
                             aria-label="Sign in with Github"
                         >
                             <button

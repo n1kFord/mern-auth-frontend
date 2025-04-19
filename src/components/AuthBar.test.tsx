@@ -187,7 +187,7 @@ describe("AuthBar Component", () => {
 
             expect(googleButton).toHaveAttribute(
                 "href",
-                "http://localhost:8080/api/auth/google",
+                `${process.env.REACT_APP_API_LINK || "http://localhost:8080/api"}/auth/google`,
             );
         });
 
@@ -204,7 +204,7 @@ describe("AuthBar Component", () => {
 
             expect(githubButton).toHaveAttribute(
                 "href",
-                "http://localhost:8080/api/auth/github",
+                `${process.env.REACT_APP_API_LINK || "http://localhost:8080/api"}/auth/github`,
             );
         });
     });

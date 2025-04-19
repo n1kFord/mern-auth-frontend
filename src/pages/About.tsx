@@ -321,7 +321,7 @@ const About: FC = () => {
                     functionalities into your own projects!
                 </motion.h3>
                 <motion.a
-                    href="https://github.com/n1kFord"
+                    href="https://github.com/n1kFord/mern-auth-frontend"
                     className="about__explore__link"
                     target="_blank"
                     rel="noreferrer"
