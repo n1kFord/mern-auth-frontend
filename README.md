@@ -1,5 +1,7 @@
 # 🛡️ MERN Auth Frontend
 
+[![CI Status](https://github.com/n1kFord/mern-auth-frontend/actions/workflows/test.yml/badge.svg)](https://github.com/n1kFord/mern-auth-frontend/actions)
+
 **Personal Fullstack Project — Frontend**  
 A modern, accessible, and test-driven interface built with **React** and **TypeScript**, forming the frontend of a secure **MERN**-based authentication system.
 
