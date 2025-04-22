@@ -26,6 +26,12 @@ You can try the full app here:
 
 > ⚠️ **Note:** When opening the app for the first time, the **backend server may take up to one minute to respond**, as it's hosted on a free-tier platform with cold start delays.
 
+> ⚠️ **Safari Users:** Due to cross-site cookie restrictions in Safari, authentication may not work properly out of the box.  
+> Please either:
+>
+> -   Use **Chrome** or **Firefox** for the full experience
+> -   Or **enable third-party cookies** in Safari settings (Settings → Privacy → Uncheck _“Prevent cross-site tracking”_)
+
 ---
 
 ## 🏁 Getting Started Locally
