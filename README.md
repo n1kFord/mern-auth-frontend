@@ -24,7 +24,8 @@ It features a responsive, accessible interface with full login/register/OAuth fl
 You can try the full app here:  
 🔗 **[mern-auth-frontend-beta-two.vercel.app](https://mern-auth-frontend-beta-two.vercel.app)**
 
-> ⚠️ **Note:** When opening the app for the first time, the **backend server may take up to one minute to respond**, as it's hosted on a free-tier platform with cold start delays.
+> ⚠️ Note: The backend service may be temporarily unavailable due to a MongoDB Atlas free-tier cluster outage or external infrastructure issues.
+> Authentication features might not work until service is restored.
 
 > ⚠️ **Safari Users:** Due to cross-site cookie restrictions in Safari, authentication may not work properly out of the box.  
 > Please either:
